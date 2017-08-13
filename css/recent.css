@@ -1,0 +1,39 @@
+#heading{
+    margin-top: 5%;
+    height: 10%;
+    text-align: center;
+}
+#content{
+	background-color: #F2F2F2;
+}
+#heading{
+	text-align: center;
+	background-color: #222222;
+	color: white;
+}
+.info1{
+	margin-top: 19%;
+}
+.articleimg3{
+	margin-top: 15%;
+}
+#foot{
+	background-color: #222222;
+	color: white;
+	margin-top: 5%;
+	font-size: 80%;
+	
+}
+ul{
+	list-style-type: none;
+
+}
+.footnav{
+	margin-left: 20%;
+}
+.footSocial{
+   margin-left: 19%;
+}
+#follow{
+	margin-left: -5%;
+}
