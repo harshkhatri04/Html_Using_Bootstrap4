@@ -2,14 +2,11 @@
     margin-top: 5%;
     height: 10%;
     text-align: center;
+    background-color: #222222;
+	  color: white;
 }
 #content{
 	background-color: #F2F2F2;
-}
-#heading{
-	text-align: center;
-	background-color: #222222;
-	color: white;
 }
 .info1{
 	margin-top: 19%;
@@ -20,19 +17,17 @@
 #foot{
 	background-color: #222222;
 	color: white;
-	margin-top: 5%;
-	font-size: 80%;
-	
+  font-size: 80%;
 }
 ul{
 	list-style-type: none;
 
 }
 .footnav{
-	margin-left: 20%;
+	margin-left: 17%;
 }
 .footSocial{
-   margin-left: 19%;
+   margin-left: 17%;
 }
 #follow{
 	margin-left: -5%;
