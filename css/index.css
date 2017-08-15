@@ -1,27 +1,35 @@
-
-#myCarousel{
-	margin-top: 7%;
-
+/*CSS Document*/
+/*carousel margin*/
+#myCarousel img{      
+	margin-top: 2%;
 }
-#foot{
-	background-color: #222222;
-	color: white;
-}
-.panel-body{
-	background-color: #222222;
-}
-.video{
-	margin-top: 8%;
-}
+/*this will change whole body properties*/
 #main{
 	background-color: #F2F2F2;
 }
+/*this will change list properties*/
 ul{
 	list-style-type: none;
 }
+/*this will change pannel properties*/
+.panel-body{
+	background-color: #222222;
+}
+/*this will change video properties*/
+.video{
+	margin-top: 8%;
+}
+/*this will change footer navigation properties*/
 .footnav{
 	margin-left: 20%;
 }
+/*this will change footer social column properties*/
 .footSocial{
-   margin-left: 19%;
+	margin-left: 19%;
+}
+/*this will change footer properties*/
+#foot{
+	background-color: #222222;
+	color: white;
+	margin-top: 3%;
 }

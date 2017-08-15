@@ -1,39 +1,43 @@
+/*this will change heading properties*/
 #heading{
-    margin-top: 5%;
+    margin-top: 7%;
     height: 10%;
     text-align: center;
+	background-color: #222222;
+	color: white;
 }
+/*this will change content properties*/
 #content{
 	background-color: #F2F2F2;
 }
-#heading{
-	text-align: center;
-	background-color: #222222;
-	color: white;
-}
+/*this will change .info1 properties*/
 .info1{
 	margin-top: 19%;
 }
+/*this will change aticleimg3 properties*/
 .articleimg3{
 	margin-top: 15%;
 }
+/*this will change footer properties*/
 #foot{
 	background-color: #222222;
 	color: white;
-	margin-top: 5%;
+	margin-top: 1%;
 	font-size: 80%;
-	
 }
+/*this will change list properties*/
 ul{
 	list-style-type: none;
-
 }
+/*this will change footernavigation coulumn properties*/
 .footnav{
 	margin-left: 20%;
 }
+/*this will change footersocial column properties*/
 .footSocial{
    margin-left: 19%;
 }
+/*this will change footerfollow properties*/
 #follow{
 	margin-left: -5%;
 }
