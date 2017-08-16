@@ -1,35 +1,73 @@
-/*CSS Document*/
-/*carousel margin*/
-#myCarousel img{      
-	margin-top: 2%;
-}
-/*this will change whole body properties*/
 #main{
 	background-color: #F2F2F2;
 }
-/*this will change list properties*/
-ul{
-	list-style-type: none;
+#myCarousel{
+	margin-top: 7%;
 }
-/*this will change pannel properties*/
 .panel-body{
 	background-color: #222222;
 }
-/*this will change video properties*/
 .video{
 	margin-top: 8%;
 }
-/*this will change footer navigation properties*/
-.footnav{
-	margin-left: 20%;
+ul{
+	list-style-type: none;
 }
-/*this will change footer social column properties*/
-.footSocial{
-	margin-left: 19%;
-}
-/*this will change footer properties*/
 #foot{
 	background-color: #222222;
 	color: white;
-	margin-top: 3%;
+	font-size: 80%;
+}
+.footnav{
+	margin-left: 17%;
+}
+.footSocial{
+   margin-left: 17%;
+}
+html{
+	font-size: 8px;
+}
+/**
+ * [media description]
+ * @param  {[type]} min-width: 33.9em        [description]
+ * @return {[type]}            [description]
+ */
+@media (min-width: 33.9em) { 
+
+         html {
+        font-size: 10px;
+      }
+
+
+ }
+/**
+ * Small devices (phones, tablets less than 48em)
+  */
+@media (min-width: 47.9em) {
+     html {
+    font-size: 12px;
+  }
+}
+
+/**
+ * Medium devices (tablets, small laptops less than 62em)
+ 
+ */
+@media (min-width: 61.9em) {
+    html {
+    font-size: 14px;
+  }
+
+ }
+
+/**
+ * Large devices (desktops, screens less than 75em)
+ * @param  {[type]} max-width: 74.9em        [description]
+ * @return {[type]}            [description]
+ */
+@media (min-width: 74.9em) {
+      
+html {
+    font-size: 16px;
+  }
 }
